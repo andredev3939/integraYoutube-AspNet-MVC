@@ -9,9 +9,10 @@ namespace ApiYtb.Controllers
     public class HomeController : Controller
     {
         
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var videos = await BuscaVideos();
+            return View(videos);
         }
         // Requisições assíncronas retornam "tasks". No caso, do tipo lista e seguindo o modelo escolhido 
         private async Task<List<DetalhesVd>> BuscaVideos()
@@ -23,7 +24,7 @@ namespace ApiYtb.Controllers
                 ApplicationName = "YoutubeApiVideo"
             });
             // Tipos de dados a serem retornados, id do canal, ordenar por ordem de lançamento e quantia máxima de resultados
-            var searchRequest = youtubeService.Search.List("snippet, statistics");
+            var searchRequest = youtubeService.Search.List("snippet");
             searchRequest.ChannelId = "UCib793mnUOhWymCh2VJKplQ";
             searchRequest.Order = SearchResource.ListRequest.OrderEnum.Date;
             searchRequest.MaxResults = 25;

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/qH7WMhMLqDaUqtGH76hF9gh4WgTvIuMWsRXCVThM7E=",
+  "Hash": "xNQybcDTQze9zK6TqeqFVkd1A12bL0n1pbUHOboAND0=",
   "Source": "ApiYtb",
   "BasePath": "_content/ApiYtb",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "C:\\Users\\felip\\OneDrive\\Desktop\\web-development-projects\\backend\\c#-asp.net.core\\ApiYtb\\ApiYtb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ApiYtb.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\felip\\OneDrive\\Desktop\\web-development-projects\\backend\\c#-asp.net.core\\ApiYtb\\ApiYtb\\wwwroot\\css\\BOOTSWATCH.css",
+      "SourceId": "ApiYtb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\felip\\OneDrive\\Desktop\\web-development-projects\\backend\\c#-asp.net.core\\ApiYtb\\ApiYtb\\wwwroot\\",
+      "BasePath": "_content/ApiYtb",
+      "RelativePath": "css/BOOTSWATCH#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7uvnz3eo1y",
+      "Integrity": "78/TiJqD3FUZ2M0gSUSmyD9K8crBngnYGeU/jeKFQEo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\BOOTSWATCH.css"
+    },
+    {
       "Identity": "C:\\Users\\felip\\OneDrive\\Desktop\\web-development-projects\\backend\\c#-asp.net.core\\ApiYtb\\ApiYtb\\wwwroot\\css\\site.css",
       "SourceId": "ApiYtb",
       "SourceType": "Discovered",
@@ -73,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "7kzqzk31bj",
+      "Integrity": "eYYkfsTl5mmDX6MFmDzxEsng/7pCd6XY3DzjR+WJzQA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1485,8 +1506,8 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\felip\\OneDrive\\Desktop\\web-development-projects\\backend\\c#-asp.net.core\\ApiYtb\\ApiYtb\\wwwroot\\css\\site.css",
+      "Route": "css/BOOTSWATCH.7uvnz3eo1y.css",
+      "AssetFile": "C:\\Users\\felip\\OneDrive\\Desktop\\web-development-projects\\backend\\c#-asp.net.core\\ApiYtb\\ApiYtb\\wwwroot\\css\\BOOTSWATCH.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1495,7 +1516,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "242494"
         },
         {
           "Name": "Content-Type",
@@ -1503,11 +1524,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"78/TiJqD3FUZ2M0gSUSmyD9K8crBngnYGeU/jeKFQEo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 15:16:45 GMT"
+          "Value": "Tue, 22 Apr 2025 17:20:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1517,7 +1538,89 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "7uvnz3eo1y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/BOOTSWATCH.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-78/TiJqD3FUZ2M0gSUSmyD9K8crBngnYGeU/jeKFQEo="
+        }
+      ]
+    },
+    {
+      "Route": "css/BOOTSWATCH.css",
+      "AssetFile": "C:\\Users\\felip\\OneDrive\\Desktop\\web-development-projects\\backend\\c#-asp.net.core\\ApiYtb\\ApiYtb\\wwwroot\\css\\BOOTSWATCH.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "242494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"78/TiJqD3FUZ2M0gSUSmyD9K8crBngnYGeU/jeKFQEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 17:20:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-78/TiJqD3FUZ2M0gSUSmyD9K8crBngnYGeU/jeKFQEo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.7kzqzk31bj.css",
+      "AssetFile": "C:\\Users\\felip\\OneDrive\\Desktop\\web-development-projects\\backend\\c#-asp.net.core\\ApiYtb\\ApiYtb\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "317043"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eYYkfsTl5mmDX6MFmDzxEsng/7pCd6XY3DzjR+WJzQA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 17:22:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7kzqzk31bj"
         },
         {
           "Name": "label",
@@ -1525,7 +1628,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-eYYkfsTl5mmDX6MFmDzxEsng/7pCd6XY3DzjR+WJzQA="
         }
       ]
     },
@@ -1540,7 +1643,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "317043"
         },
         {
           "Name": "Content-Type",
@@ -1548,11 +1651,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"eYYkfsTl5mmDX6MFmDzxEsng/7pCd6XY3DzjR+WJzQA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 15:16:45 GMT"
+          "Value": "Tue, 22 Apr 2025 17:22:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1562,7 +1665,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-eYYkfsTl5mmDX6MFmDzxEsng/7pCd6XY3DzjR+WJzQA="
         }
       ]
     },

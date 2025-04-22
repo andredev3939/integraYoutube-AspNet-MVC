@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiYtb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1152d3c88fb03964e9343e56186c517a3cddca0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+530a0383445e9ff8837058ff0daf17d2e7d68522")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiYtb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiYtb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
