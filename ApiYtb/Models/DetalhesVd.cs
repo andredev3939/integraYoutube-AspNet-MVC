@@ -9,5 +9,6 @@
         public string? Link { get; set; }
         public string? ThumbnailUrl { get; set; }
         public DateTime? PublishedAt { get; set; }
+
     }
 }

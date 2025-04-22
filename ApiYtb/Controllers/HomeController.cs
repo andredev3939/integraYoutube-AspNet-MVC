@@ -29,7 +29,21 @@ namespace ApiYtb.Controllers
             searchRequest.MaxResults = 25;
 
             var searchResponse = await searchRequest.ExecuteAsync();
-        }
-        
+
+            // Dados retornados postos no objeto videoList
+            List<DetalhesVd> videoList = searchResponse.Items.Select(item =>
+                new DetalhesVd
+                {
+                    Title = item.Snippet.Title,
+                    Description = item.Snippet.Description,
+                    ThumbnailUrl = item.Snippet.Thumbnails?.Medium?.Url,
+                    Link = $"https://www.youtube.com/watch?v={item.Id.VideoId}",
+                    PublishedAt = item.Snippet.PublishedAt
+                }).OrderByDescending(video => video.PublishedAt)
+                .ToList();
+            
+            return videoList;
+
+            }        
     }
 }
