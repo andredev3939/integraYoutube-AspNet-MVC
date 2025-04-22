@@ -5,3 +5,5 @@ C:\Users\felip\OneDrive\Desktop\web-development-projects\backend\c#-asp.net.core
 C:\Users\felip\OneDrive\Desktop\web-development-projects\backend\c#-asp.net.core\ApiYtb\ApiYtb\obj\Debug\net8.0\ApiYtb.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\felip\OneDrive\Desktop\web-development-projects\backend\c#-asp.net.core\ApiYtb\ApiYtb\obj\Debug\net8.0\ApiYtb.RazorAssemblyInfo.cache
 C:\Users\felip\OneDrive\Desktop\web-development-projects\backend\c#-asp.net.core\ApiYtb\ApiYtb\obj\Debug\net8.0\ApiYtb.RazorAssemblyInfo.cs
+C:\Users\felip\OneDrive\Desktop\web-development-projects\backend\c#-asp.net.core\ApiYtb\ApiYtb\obj\Debug\net8.0\ApiYtb.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Desktop\web-development-projects\backend\c#-asp.net.core\ApiYtb\ApiYtb\obj\Debug\net8.0\ApiYtb.sourcelink.json
