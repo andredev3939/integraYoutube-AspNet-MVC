@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6I5eGqt84A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Desktop\\web-development-projects\\backend\\c#-asp.net.core\\ApiYtb\\ApiYtb\\ApiYtb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\google.apis\\1.69.0\\google.apis.1.69.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\google.apis.auth\\1.69.0\\google.apis.auth.1.69.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\google.apis.core\\1.69.0\\google.apis.core.1.69.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\google.apis.youtube.v3\\1.69.0.3742\\google.apis.youtube.v3.1.69.0.3742.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

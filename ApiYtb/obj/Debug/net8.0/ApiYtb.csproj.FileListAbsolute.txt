@@ -1,0 +1,7 @@
+C:\Users\felip\OneDrive\Desktop\web-development-projects\backend\c#-asp.net.core\ApiYtb\ApiYtb\obj\Debug\net8.0\ApiYtb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Desktop\web-development-projects\backend\c#-asp.net.core\ApiYtb\ApiYtb\obj\Debug\net8.0\ApiYtb.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Desktop\web-development-projects\backend\c#-asp.net.core\ApiYtb\ApiYtb\obj\Debug\net8.0\ApiYtb.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Desktop\web-development-projects\backend\c#-asp.net.core\ApiYtb\ApiYtb\obj\Debug\net8.0\ApiYtb.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Desktop\web-development-projects\backend\c#-asp.net.core\ApiYtb\ApiYtb\obj\Debug\net8.0\ApiYtb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\OneDrive\Desktop\web-development-projects\backend\c#-asp.net.core\ApiYtb\ApiYtb\obj\Debug\net8.0\ApiYtb.RazorAssemblyInfo.cache
+C:\Users\felip\OneDrive\Desktop\web-development-projects\backend\c#-asp.net.core\ApiYtb\ApiYtb\obj\Debug\net8.0\ApiYtb.RazorAssemblyInfo.cs
